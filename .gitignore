@@ -1,0 +1,23 @@
+# Carpetas generadas por NetBeans
+build/
+dist/
+
+# Archivos compilados
+*.class
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+
+# Configuración privada de NetBeans
+nbproject/private/
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
+
+# Cache
+.cache/
